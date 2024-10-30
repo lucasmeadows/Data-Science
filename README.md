@@ -1,2 +1,2 @@
-# Data-Sciencee
+# Data-Science
 A collection of data science projects
